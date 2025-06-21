@@ -68,11 +68,6 @@
 
 ---
 
-## 📷 Screenshots
-
-> *(Add screenshots or GIFs here to showcase dashboards, submission forms, reports, etc.)*
-
----
 
 ## 📄 License
 
